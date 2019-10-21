@@ -1,8 +1,9 @@
 /*
-Theme Name: customtheme
-Author: Khiem
-Author URI: http://localhost:82/khiem/wordpress/
+Theme Name: DoanVuQuocKhiem
+Author: Vegibit
+Author URI: https://DoanVuQuocKhiem
 Version: 1.0
+* Textdomain: doanvuquockhiem
  */
 body {
  font-family: Arial, sans-serif;
@@ -31,4 +32,3 @@ article.post:last-of-type {
 .site-footer {
  border-top: 3px solid #ecf0f1;
 }
-
